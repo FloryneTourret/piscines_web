@@ -180,13 +180,7 @@ ceux qui voudraient
 	<div>
 		<img src="3.png" height=400>
 	</div>
-<<<<<<< HEAD
 	- L 'interface montre où on en est dans nos commits et permet un `git push` simplifié après l'enregistrement des logins.
-=======
-	</p>
-	- <p>
-	L 'interface montre où on en est dans nos commits et permet un `git push` simplifié après l'enregistrement des 	logins.
->>>>>>> f6e53c457433a8e5d98e8edd5053a02121b3a70d
 	<div>
 		<img src="4.png" height=100>
 		<img src="5.png" height=100>
