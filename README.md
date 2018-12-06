@@ -167,33 +167,24 @@ ceux qui voudraient
 
 - *1* : ou autre selon les choix pour la solution de versionning...
 - *2* : on pourrait utiliser atom car c'est un all in one qui nous permet de faire l'édition de code et le versionning dans une seule fenêtre (et hackable / open source / ... et cool)
-	-  <p>
-		en effet on peut ajouter simplement un dossier de projet à atom.
+	- en effet on peut ajouter simplement un dossier de projet à atom.
 			<div>
 				<img src="1.png" height=300>
 			</div>
-		</p>
-	- <p>
-		L'interface permert de connaitre les changement fait sur in fichier avec un
+	- L'interface permert de connaitre les changement fait sur in fichier avec un
 		git diff assez explicite. Elle permet de `git add` ou de `git rm` d'un simple double click.
 	<div>
 		<img src="2.png" height=400>
 	</div>
-	</p>
-	- <p>
-		l'interface permet aussi de faire un `git commit` explicite dans un box simple d'usage. Et même elle permet d'`amend`. (Voir elle permet de `git checkout file` avec un icone poubelle)  
+	- l'interface permet aussi de faire un `git commit` explicite dans un box simple d'usage. Et même elle permet d'`amend`. (Voir elle permet de `git checkout file` avec un icone poubelle)  
 	<div>
 		<img src="3.png" height=400>
 	</div>
-	</p>
-	- <p>
-
-		  L 'interface montre où on en est dans nos commits et permet un `git push` simplifié après l'enregistrement des logins.
+	- L 'interface montre où on en est dans nos commits et permet un `git push` simplifié après l'enregistrement des logins.
 	<div>
 		<img src="4.png" height=100>
 		<img src="5.png" height=100>
 	</div>
-	</p>
 	- Le seul désavantage que je vois serait le `git clone` (mais il peut facilement être regler avec ce type de [package](https://atom.io/packages/git-clone) par exemple).
 
 - *3* : j'ai noté ca rapidement mais je sais plus à quoi ça correspond.
