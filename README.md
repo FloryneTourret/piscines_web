@@ -187,8 +187,7 @@ ceux qui voudraient
 	</div>
 	</p>
 	- <p>
-
-		  L 'interface montre où on en est dans nos commits et permet un `git push` simplifié après l'enregistrement des logins.
+	L 'interface montre où on en est dans nos commits et permet un `git push` simplifié après l'enregistrement des 	logins.
 	<div>
 		<img src="4.png" height=100>
 		<img src="5.png" height=100>
