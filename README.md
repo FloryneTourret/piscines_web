@@ -7,7 +7,7 @@
 |--------|:---------:|:---------:|
 | 00     |      epoggio   | vasalome        |
 | 01     |    mchapard     |  srepelli       |
-| 02     |    shthevak     |    nobody sorry     |
+| 02     |    shthevak     |    ftourret fleonard     |
 | 03     |    ftourret     |    fleonard     |
 | 04     |     shthevak    |    vischlum     |
 | RUSH00 |    ALL     |     ALL    |
